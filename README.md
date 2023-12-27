@@ -5,6 +5,9 @@ Here you find a collection of CUDA related material (books, papers, blog-post, y
 
 You know a great resource we should add? Please see [How to contribute](#how-to-contribute).
 
+## 1st Contact with CUDA
+- [An Easy Introduction to CUDA C and C++](https://developer.nvidia.com/blog/easy-introduction-cuda-c-and-c/)
+
 
 ## Papers, Case Studies
 - [A Case Study in CUDA Kernel Fusion: Implementing FlashAttention-2 on NVIDIA Hopper Architecture using the CUTLASS Library](https://arxiv.org/abs/2312.11918)
