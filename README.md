@@ -7,6 +7,8 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 
 ## 1st Contact with CUDA
 - [An Easy Introduction to CUDA C and C++](https://developer.nvidia.com/blog/easy-introduction-cuda-c-and-c/)
+- [CUDA Toolkit Documentation ](https://docs.nvidia.com/cuda/)
+- Basic terminology: Thread block, Warp, Streaming Multiprocessor: [Wiki: Thread Block](https://en.wikipedia.org/wiki/Thread_block_(CUDA_programming)), [A tour of CUDA](https://tbetcke.github.io/hpc_lecture_notes/cuda_introduction.html)
 
 
 ## Papers, Case Studies
