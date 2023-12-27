@@ -29,10 +29,12 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 
 ## Essentials
 - [Triton compiler tutorials](https://triton-lang.org/main/getting-started/tutorials/index.html)
+- [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/)
+- [pybind11 documentation](https://pybind11.readthedocs.io/en/stable/)
+
 
 
 ## How to contribute
-
 To share interesting CUDA related links please create a pull request for this file. See [editing files](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) in the github documentation.
 
 Or contact us on the **CUDA MODE** discord server: invitation link TBD
