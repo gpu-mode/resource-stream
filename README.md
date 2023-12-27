@@ -16,6 +16,8 @@
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention)
 - [state-spaces/mamba](https://github.com/state-spaces/mamba)
 
+## Practice
+- [Sasha Rush's GPU Puzzles](https://github.com/srush/GPU-Puzzles)
 
 ## PyTorch Highlights
 - [Accelerating Generative AI with PyTorch: Segment Anything, Fast](https://pytorch.org/blog/accelerating-generative-ai/)
