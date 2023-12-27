@@ -9,10 +9,12 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [An Easy Introduction to CUDA C and C++](https://developer.nvidia.com/blog/easy-introduction-cuda-c-and-c/)
 - [CUDA Toolkit Documentation ](https://docs.nvidia.com/cuda/)
 - Basic terminology: Thread block, Warp, Streaming Multiprocessor: [Wiki: Thread Block](https://en.wikipedia.org/wiki/Thread_block_(CUDA_programming)), [A tour of CUDA](https://tbetcke.github.io/hpc_lecture_notes/cuda_introduction.html)
+- [GPU Performance Background User's Guide](https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html)
 
 
 ## Papers, Case Studies
 - [A Case Study in CUDA Kernel Fusion: Implementing FlashAttention-2 on NVIDIA Hopper Architecture using the CUTLASS Library](https://arxiv.org/abs/2312.11918)
+- [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM)
 
 
 ## Books
@@ -38,6 +40,9 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Triton compiler tutorials](https://triton-lang.org/main/getting-started/tutorials/index.html)
 - [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/)
 - [pybind11 documentation](https://pybind11.readthedocs.io/en/stable/)
+- [NVIDIA Tensor Core Programming](https://leimao.github.io/blog/NVIDIA-Tensor-Core-Programming/)
+- [GPU Programming: When, Why and How?](https://enccs.github.io/gpu-programming/#)
+- []
 
 
 # News
