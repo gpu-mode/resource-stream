@@ -10,10 +10,8 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [A Case Study in CUDA Kernel Fusion: Implementing FlashAttention-2 on NVIDIA Hopper Architecture using the CUTLASS Library](https://arxiv.org/abs/2312.11918)
 
 
-
 ## Books
 - [Programming Massively Parallel Processors: A Hands-on Approach](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0323912311)
-
 
 
 ## Tri Dao Fan Section
@@ -27,11 +25,24 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [PyTorch Compiler Troubleshooting](https://github.com/pytorch/pytorch/blob/main/docs/source/torch.compiler_troubleshooting.rst)
 
 
+## Code / Libs
+- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass)
+
+
 ## Essentials
 - [Triton compiler tutorials](https://triton-lang.org/main/getting-started/tutorials/index.html)
 - [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/)
 - [pybind11 documentation](https://pybind11.readthedocs.io/en/stable/)
 
+
+# News
+- [SemiAnalysis](https://www.semianalysis.com/)
+
+
+## Hardware Architecture
+- [NVIDIA H100 Whitepaper](https://resources.nvidia.com/en-us-tensor-core/gtc22-whitepaper-hopper)
+- [NVIDIA GH200 Whitepaper](https://resources.nvidia.com/en-us-grace-cpu/nvidia-grace-hopper)
+- [AMD CDNA 2 (MI200) Whitepaper](https://www.amd.com/content/dam/amd/en/documents/instinct-business-docs/white-papers/amd-cdna2-white-paper.pdf)
 
 
 ## How to contribute
