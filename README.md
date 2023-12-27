@@ -2,7 +2,6 @@
 
 Here you find a collection of CUDA related material (books, papers, blog-post, youtube videos, tweets, implementations etc.). We also collect information to higher level tools for performance optimization and kernel development like [Triton](https://triton-lang.org) and `torch.compile()` ... whatever makes the GPUs go brrrr. 
 
-
 You know a great resource we should add? Please see [How to contribute](#how-to-contribute).
 
 ## 1st Contact with CUDA
@@ -22,6 +21,10 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 ## Tri Dao Fan Section
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention)
 - [state-spaces/mamba](https://github.com/state-spaces/mamba)
+
+
+## Practice
+- [Sasha Rush's GPU Puzzles](https://github.com/srush/GPU-Puzzles)
 
 
 ## PyTorch Highlights
