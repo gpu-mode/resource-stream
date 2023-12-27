@@ -42,7 +42,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [pybind11 documentation](https://pybind11.readthedocs.io/en/stable/)
 - [NVIDIA Tensor Core Programming](https://leimao.github.io/blog/NVIDIA-Tensor-Core-Programming/)
 - [GPU Programming: When, Why and How?](https://enccs.github.io/gpu-programming/#)
-- []
+- [How CUDA Programming Works | GTC 2022](https://youtu.be/n6M8R8-PlnE?si=cJ4dWtpYaPoIuJ0q)
 
 
 # News
