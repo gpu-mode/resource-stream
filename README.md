@@ -1,6 +1,7 @@
 # CUDA MODE Resource Stream
 
-Here you find a collection of CUDA related material (books, papers, blog-post, youtube videos, tweets, implementations etc.).
+Here you find a collection of CUDA related material (books, papers, blog-post, youtube videos, tweets, implementations etc.). We also collect information to higher level tools for performance optimization and kernel development like [Triton](https://triton-lang.org) and `torch.compile()` ... whatever makes the GPUs go brrrr. 
+
 
 You know a great resource we should add? Please see [How to contribute](#how-to-contribute).
 
@@ -24,6 +25,10 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Accelerating Generative AI with PyTorch: Segment Anything, Fast](https://pytorch.org/blog/accelerating-generative-ai/)
 - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
 - [PyTorch Compiler Troubleshooting](https://github.com/pytorch/pytorch/blob/main/docs/source/torch.compiler_troubleshooting.rst)
+
+
+## Essentials
+- [Triton compiler tutorials](https://triton-lang.org/main/getting-started/tutorials/index.html)
 
 
 ## How to contribute
