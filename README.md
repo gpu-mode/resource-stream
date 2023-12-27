@@ -43,6 +43,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [NVIDIA H100 Whitepaper](https://resources.nvidia.com/en-us-tensor-core/gtc22-whitepaper-hopper)
 - [NVIDIA GH200 Whitepaper](https://resources.nvidia.com/en-us-grace-cpu/nvidia-grace-hopper)
 - [AMD CDNA 2 (MI200) Whitepaper](https://www.amd.com/content/dam/amd/en/documents/instinct-business-docs/white-papers/amd-cdna2-white-paper.pdf)
+- [AMD MI300X Data Sheet](https://www.amd.com/content/dam/amd/en/documents/instinct-tech-docs/data-sheets/amd-instinct-mi300x-data-sheet.pdf)
 
 
 ## How to contribute
