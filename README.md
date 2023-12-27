@@ -49,7 +49,13 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [How CUDA Programming Works | GTC 2022](https://youtu.be/n6M8R8-PlnE?si=cJ4dWtpYaPoIuJ0q)
 
 
-# News
+## Profiling
+
+- [Nsight Compute Profiling Guide](https://docs.nvidia.com/nsight-compute/ProfilingGuide/index.html)
+- [mcarilli/nsight.sh](https://gist.github.com/mcarilli/376821aa1a7182dfcf59928a7cde3223) - Favorite nsight systems profiling commands for PyTorch scripts 
+
+
+## News
 - [SemiAnalysis](https://www.semianalysis.com/)
 
 
