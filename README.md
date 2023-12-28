@@ -69,4 +69,4 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 ## How to contribute
 To share interesting CUDA related links please create a pull request for this file. See [editing files](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) in the github documentation.
 
-Or contact us on the **CUDA MODE** discord server: invitation link TBD
+Or contact us on the **CUDA MODE** discord server: [https://discord.gg/jqYdBWreqb](https://discord.gg/jqYdBWreqb)
