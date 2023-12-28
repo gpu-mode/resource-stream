@@ -13,6 +13,10 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [GTC 2022 - CUDA: New Features and Beyond - Stephen Jones](https://www.youtube.com/watch?v=SAm4gwkj2Ko)
 
 
+## 2nd Contact
+- [CUDA Refresher](https://developer.nvidia.com/blog/tag/cuda-refresher/)
+
+
 ## Papers, Case Studies
 - [A Case Study in CUDA Kernel Fusion: Implementing FlashAttention-2 on NVIDIA Hopper Architecture using the CUTLASS Library](https://arxiv.org/abs/2312.11918)
 - [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM)
@@ -63,6 +67,10 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 
 ## News
 - [SemiAnalysis](https://www.semianalysis.com/)
+
+
+## Technical Blog Posts
+- [Cooperative Groups: Flexible CUDA Thread Programming](https://developer.nvidia.com/blog/cooperative-groups/)
 
 
 ## Hardware Architecture
