@@ -93,7 +93,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 
 
 ## pscan project
-- GPU Gems: [Parallel Prefix Sum (Scan) with CUDA](https://developer.nvidia.com/gpugems/gpugems3/part-vi-gpu-computing/chapter-39-parallel-prefix-sum-scan-cuda), [PDF version (2007)](https://developer.download.nvidia.com/compute/cuda/1.1-Beta/x86_website/projects/scan/doc/scan.pdf), impl: [stack overflow](https://stackoverflow.com/a/30835030/387870)
+- GPU Gems: [Parallel Prefix Sum (Scan) with CUDA](https://developer.nvidia.com/gpugems/gpugems3/part-vi-gpu-computing/chapter-39-parallel-prefix-sum-scan-cuda), [PDF version (2007)](https://developer.download.nvidia.com/compute/cuda/1.1-Beta/x86_website/projects/scan/doc/scan.pdf), impl: [stack overflow](https://stackoverflow.com/a/30835030/387870), nicer impl: [mattdean1/cuda](https://github.com/mattdean1/cuda)
 - [Accelerating Reduction and Scan Using Tensor Core Units](https://arxiv.org/abs/1811.09736)
 - Thrust: [Prefix Sums](https://docs.nvidia.com/cuda/thrust/index.html#prefix-sums), Reference: [scan variants](https://thrust.github.io/doc/group__prefixsums.html)
 - [CUB](https://nvlabs.github.io/cub/), part of cccl: [NVIDIA/cccl/tree/main/cub](https://github.com/NVIDIA/cccl/tree/main/cub)
