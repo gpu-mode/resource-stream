@@ -30,8 +30,8 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 
 
 ## Tri Dao Fan Section
-- [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention)
-- [state-spaces/mamba](https://github.com/state-spaces/mamba)
+- [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention), [paper](https://arxiv.org/abs/2205.14135)
+- [state-spaces/mamba](https://github.com/state-spaces/mamba), [paper](https://arxiv.org/abs/2312.00752), minimal impl: [mamba-minimal](https://github.com/johnma2006/mamba-minimal)
 
 
 ## Practice
