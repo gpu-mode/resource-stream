@@ -29,9 +29,18 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [The CUDA Handbook](https://www.cudahandbook.com/)
 
 
-## Tri Dao Fan Section
+## CUDA Grandmasters
+
+### Tri Dao
+- x: [@tri_dao](https://twitter.com/tri_dao)
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention), [paper](https://arxiv.org/abs/2205.14135)
 - [state-spaces/mamba](https://github.com/state-spaces/mamba), [paper](https://arxiv.org/abs/2312.00752), minimal impl: [mamba-minimal](https://github.com/johnma2006/mamba-minimal)
+
+
+### Tim Dettmers
+- x: [@Tim_Dettmers](https://twitter.com/Tim_Dettmers)
+- [TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes), docs: [docs](https://bitsandbytes.readthedocs.io/en/latest/)
+- QLoRA: [paper](https://arxiv.org/abs/2305.14314)
 
 
 ## Practice
