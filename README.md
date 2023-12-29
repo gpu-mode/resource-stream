@@ -53,7 +53,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 ## Essentials
 - [Triton compiler tutorials](https://triton-lang.org/main/getting-started/tutorials/index.html)
 - [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/)
-- [PyTorch: Custom C++ and CUDA Extensions](https://pytorch.org/tutorials/advanced/cpp_extension.html)
+- [PyTorch: Custom C++ and CUDA Extensions](https://pytorch.org/tutorials/advanced/cpp_extension.html); Code: [pytorch/extension-cpp](https://github.com/pytorch/extension-cpp/tree/master)
 - [PyTorch C++ API](https://pytorch.org/cppdocs/index.html)
 - [pybind11 documentation](https://pybind11.readthedocs.io/en/stable/)
 - [NVIDIA Tensor Core Programming](https://leimao.github.io/blog/NVIDIA-Tensor-Core-Programming/)
