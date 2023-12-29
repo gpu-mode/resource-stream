@@ -96,8 +96,8 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - GPU Gems: [Parallel Prefix Sum (Scan) with CUDA](https://developer.nvidia.com/gpugems/gpugems3/part-vi-gpu-computing/chapter-39-parallel-prefix-sum-scan-cuda), [PDF version (2007)](https://developer.download.nvidia.com/compute/cuda/1.1-Beta/x86_website/projects/scan/doc/scan.pdf), impl: [stack overflow](https://stackoverflow.com/a/30835030/387870)
 - [Accelerating Reduction and Scan Using Tensor Core Units](https://arxiv.org/abs/1811.09736)
 - Thrust: [Prefix Sums](https://docs.nvidia.com/cuda/thrust/index.html#prefix-sums), Reference: [scan variants](https://thrust.github.io/doc/group__prefixsums.html)
-- Lecture recording: [Thrust Reduction and Prefix Sum](https://www.youtube.com/watch?v=F7mMfsMKk3g)
 - [CUB](https://nvlabs.github.io/cub/), part of cccl: [NVIDIA/cccl/tree/main/cub](https://github.com/NVIDIA/cccl/tree/main/cub)
+- SAM Algorithm: [Higher-Order and Tuple-Based Massively-Parallel Prefix Sums](https://userweb.cs.txstate.edu/~mb92/papers/pldi16.pdf) (licensed for non commercial use only)
 
 
 ## How to contribute
