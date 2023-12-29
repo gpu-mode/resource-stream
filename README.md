@@ -92,6 +92,11 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [AMD MI300X Data Sheet](https://www.amd.com/content/dam/amd/en/documents/instinct-tech-docs/data-sheets/amd-instinct-mi300x-data-sheet.pdf)
 
 
+## pscan project
+- GPU Gems: [Parallel Prefix Sum (Scan) with CUDA](https://developer.nvidia.com/gpugems/gpugems3/part-vi-gpu-computing/chapter-39-parallel-prefix-sum-scan-cuda)
+- [Accelerating Reduction and Scan Using Tensor Core Units](https://arxiv.org/abs/1811.09736)
+
+
 ## How to contribute
 To share interesting CUDA related links please create a pull request for this file. See [editing files](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) in the github documentation.
 
