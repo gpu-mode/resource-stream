@@ -99,6 +99,12 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [CUB](https://nvlabs.github.io/cub/), part of cccl: [NVIDIA/cccl/tree/main/cub](https://github.com/NVIDIA/cccl/tree/main/cub)
 - SAM Algorithm: [Higher-Order and Tuple-Based Massively-Parallel Prefix Sums](https://userweb.cs.txstate.edu/~mb92/papers/pldi16.pdf) (licensed for non commercial use only)
 
+## Misc examples
+
+These focus on the use of various compilers like Triton to implement custom kernels leading to tremendous improvements. 
+
+* [`unsloth`](https://github.com/unslothai/unsloth) that implements custom kernels in Triton for faster QLoRA training
+* Custom implementation of relative position attention ([link](https://github.com/pytorch-labs/segment-anything-fast/blob/main/segment_anything_fast/flash_4.py))
 
 ## How to contribute
 To share interesting CUDA related links please create a pull request for this file. See [editing files](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) in the github documentation.
