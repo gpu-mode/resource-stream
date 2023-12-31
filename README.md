@@ -98,6 +98,8 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - Thrust: [Prefix Sums](https://docs.nvidia.com/cuda/thrust/index.html#prefix-sums), Reference: [scan variants](https://thrust.github.io/doc/group__prefixsums.html)
 - [CUB](https://nvlabs.github.io/cub/), part of cccl: [NVIDIA/cccl/tree/main/cub](https://github.com/NVIDIA/cccl/tree/main/cub)
 - SAM Algorithm: [Higher-Order and Tuple-Based Massively-Parallel Prefix Sums](https://userweb.cs.txstate.edu/~mb92/papers/pldi16.pdf) (licensed for non commercial use only)
+- CUB Algorithm: [Single-pass Parallel Prefix Scan with Decoupled Look-back](https://research.nvidia.com/publication/2016-03_single-pass-parallel-prefix-scan-decoupled-look-back)
+- Group Experiments: [johnryan465/pscan](https://github.com/johnryan465/pscan), [andreaskoepf/pscan_kernel](https://github.com/andreaskoepf/pscan_kernel)
 
 
 ## Triton Kernels / Examples
