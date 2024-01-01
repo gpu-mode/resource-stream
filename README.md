@@ -53,6 +53,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
 - [Speed, Python: Pick Two. How CUDA Graphs Enable Fast Python Code for Deep Learning](https://blog.fireworks.ai/speed-python-pick-two-how-cuda-graphs-enable-fast-python-code-for-deep-learning-353bf6241248)
 - [Performance Debugging of Production PyTorch Models at Meta](https://pytorch.org/blog/performance-debugging-of-production-pytorch-models-at-meta/)
+- [The nuances of PyTorch Graph Capture](https://dev-discuss.pytorch.org/t/the-nuances-of-pytorch-graph-capture/501)
 
 
 ## PyTorch Internals & Debugging
