@@ -53,7 +53,6 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
 - [Speed, Python: Pick Two. How CUDA Graphs Enable Fast Python Code for Deep Learning](https://blog.fireworks.ai/speed-python-pick-two-how-cuda-graphs-enable-fast-python-code-for-deep-learning-353bf6241248)
 - [Performance Debugging of Production PyTorch Models at Meta](https://pytorch.org/blog/performance-debugging-of-production-pytorch-models-at-meta/)
-- [The nuances of PyTorch Graph Capture](https://dev-discuss.pytorch.org/t/the-nuances-of-pytorch-graph-capture/501)
 
 
 ## PyTorch Internals & Debugging
@@ -63,7 +62,6 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - Understanding GPU memory: [1: Visualizing All Allocations over Time](https://pytorch.org/blog/understanding-gpu-memory-1/), [2: Finding and Removing Reference Cycles](https://pytorch.org/blog/understanding-gpu-memory-2/) 
 - Debugging memory using snapshots: [Debugging PyTorch memory use with snapshots](https://zdevito.github.io/2022/08/16/memory-snapshots.html)
 - Trace Analyzer:  [PyTorch Trace Analysis for the Masses](https://pytorch.org/blog/trace-analysis-for-masses/)
-
 
 
 ## Code / Libs
