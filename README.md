@@ -86,6 +86,16 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Profiling GPU Applications with Nsight Systems](https://www.youtube.com/watch?v=kKANP0kL_hk) 
 
 
+## Python GPU Computing
+- [PyTorch](https://pytorch.org/)
+- [numba @cuda.jit](https://numba.readthedocs.io/en/stable/cuda/kernels.html)
+- [Apache TVM](https://tvm.apache.org/)
+- [JAX Pallas](https://jax.readthedocs.io/en/latest/pallas/index.html)
+- [CuPy](https://cupy.dev/) NumPy compatible GPU Computing
+- [Codon @gpu.kernel](https://docs.exaloop.io/codon/advanced/gpu), github: [exaloop/codon](https://github.com/exaloop/codon)
+- NVIDIA Python Bindings: [CUDA Python](https://github.com/NVIDIA/cuda-python) (calling NVRTC to compile kernels, malloc, copy, launching kernels, ..), [cuDNN FrontEnd(FE) API](https://github.com/NVIDIA/cudnn-frontend), [CUTLASS Python Interface](https://github.com/NVIDIA/cutlass/tree/main/python)
+
+
 ## News
 - [SemiAnalysis](https://www.semianalysis.com/)
 
