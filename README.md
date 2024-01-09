@@ -99,6 +99,11 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - NVIDIA Python Bindings: [CUDA Python](https://github.com/NVIDIA/cuda-python) (calling NVRTC to compile kernels, malloc, copy, launching kernels, ..), [cuDNN FrontEnd(FE) API](https://github.com/NVIDIA/cudnn-frontend), [CUTLASS Python Interface](https://github.com/NVIDIA/cutlass/tree/main/python)
 
 
+## Advanced Topics, Research, Compilers
+- [TACO](http://tensor-compiler.org/): The Tensor Algebra Compiler, gh: [tensor-compiler/taco](https://github.com/tensor-compiler/taco)
+- [Mosaic compiler](https://github.com/manya-bansal/mosaic) C++ DSL for sparse and dense tensors algebra (built on top of TACO), [paper](https://dl.acm.org/doi/10.1145/3591236), [presentation](https://aha.stanford.edu/mosaic-interoperable-compiler-tensor-algebra)
+
+
 ## News
 - [SemiAnalysis](https://www.semianalysis.com/)
 
