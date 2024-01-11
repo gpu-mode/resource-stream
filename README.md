@@ -46,6 +46,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 
 ## Practice
 - [Sasha Rush's GPU Puzzles](https://github.com/srush/GPU-Puzzles), dshah3's [CUDA C++ version](https://github.com/dshah3/GPU-Puzzles) & [walkthrough video](https://www.youtube.com/watch?v=3frRR6fycgM)
+- [Adnan Aziz and Anupam Bhatnagar GPU Puzzlers](http://www.gpupuzzlers.com/)
 
 
 ## PyTorch Performance Optimization
