@@ -62,6 +62,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Pytorch 2 internals](https://drive.google.com/file/d/1XBox0G3FI-71efQQjmqGh0-VkCd-AHPL/view)
 - Understanding GPU memory: [1: Visualizing All Allocations over Time](https://pytorch.org/blog/understanding-gpu-memory-1/), [2: Finding and Removing Reference Cycles](https://pytorch.org/blog/understanding-gpu-memory-2/) 
 - Debugging memory using snapshots: [Debugging PyTorch memory use with snapshots](https://zdevito.github.io/2022/08/16/memory-snapshots.html)
+- CUDA caching allocaator: [https://zdevito.github.io/2022/08/04/cuda-caching-allocator.html](https://zdevito.github.io/2022/08/04/cuda-caching-allocator.html)
 - Trace Analyzer:  [PyTorch Trace Analysis for the Masses](https://pytorch.org/blog/trace-analysis-for-masses/)
 
 
