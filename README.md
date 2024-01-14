@@ -4,6 +4,11 @@ Here you find a collection of CUDA related material (books, papers, blog-post, y
 
 You know a great resource we should add? Please see [How to contribute](#how-to-contribute).
 
+## Lectures / Reading Group Live Sessions
+- [Lecture 1: How to profile CUDA in PyTorch](https://docs.google.com/presentation/d/110dnMW94LX1ySWxu9La17AVUxjgSaQDLOotFC3BZZD4/edit?usp=sharing), recording: [Video](https://www.youtube.com/watch?v=LuhJEEJQgUM&t=751s), code: [msaroufim/cudamodelecture1](https://github.com/msaroufim/cudamodelecture1), speaker: [Mark Saroufim](https://twitter.com/marksaroufim)
+
+
+
 ## 1st Contact with CUDA
 - [An Easy Introduction to CUDA C and C++](https://developer.nvidia.com/blog/easy-introduction-cuda-c-and-c/)
 - [CUDA Toolkit Documentation ](https://docs.nvidia.com/cuda/)
