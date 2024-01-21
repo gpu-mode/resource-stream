@@ -87,6 +87,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [GPU Programming: When, Why and How?](https://enccs.github.io/gpu-programming/#)
 - [How GPU Computing Works | GTC 2021](https://youtu.be/3l10o0DYJXg?si=t5FHswnibAbo3s0t) (more basic than the 2022 version)
 - [How CUDA Programming Works | GTC 2022](https://youtu.be/n6M8R8-PlnE?si=cJ4dWtpYaPoIuJ0q)
+- [PTX and ISA Programming Guide](https://docs.nvidia.com/cuda/parallel-thread-execution/index.html) (V8.3)
 
 
 ## Profiling
