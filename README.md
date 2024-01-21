@@ -6,7 +6,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 
 ## Lectures / Reading Group Live Sessions
 - [Lecture 1: How to profile CUDA in PyTorch](https://docs.google.com/presentation/d/110dnMW94LX1ySWxu9La17AVUxjgSaQDLOotFC3BZZD4/edit?usp=sharing), recording: [Video](https://www.youtube.com/watch?v=LuhJEEJQgUM&t=751s), code: [cuda-mode/profiling-cuda-in-torch](https://github.com/cuda-mode/profiling-cuda-in-torch), speaker: [Mark Saroufim](https://twitter.com/marksaroufim)
-- [Lecture 2: Chapters 1-3 from the PMPP book](https://docs.google.com/presentation/d/1deqvEHdqEC4LHUpStO6z3TT77Dt84fNAvTIAxBJgDck/edit?usp=sharing), code: [cuda-mode/lecture2](https://github.com/cuda-mode/lecture2), speaker: [Andreas Koepf](https://twitter.com/neurosp1ke)
+- [Lecture 2: Recap of Chapters 1-3 from the PMPP book](https://docs.google.com/presentation/d/1deqvEHdqEC4LHUpStO6z3TT77Dt84fNAvTIAxBJgDck/edit?usp=sharing), code: [cuda-mode/lecture2](https://github.com/cuda-mode/lecture2), speaker: [Andreas Koepf](https://twitter.com/neurosp1ke)
 
 
 
@@ -63,6 +63,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 
 
 ## PyTorch Internals & Debugging
+- [TorchDynamo Deep Dive](https://pytorch.org/docs/stable/torch.compiler_deepdive.html)
 - [PyTorch Compiler Troubleshooting](https://github.com/pytorch/pytorch/blob/main/docs/source/torch.compiler_troubleshooting.rst)
 - [PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/)
 - [Pytorch 2 internals](https://drive.google.com/file/d/1XBox0G3FI-71efQQjmqGh0-VkCd-AHPL/view)
