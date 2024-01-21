@@ -118,8 +118,8 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 
 
 ## Technical Blog Posts
-- [Cooperative Groups: Flexible CUDA Thread Programming](https://developer.nvidia.com/blog/cooperative-groups/)
-
+- [Cooperative Groups: Flexible CUDA Thread Programming](https://developer.nvidia.com/blog/cooperative-groups/) (Oct 04, 2017)
+- [A friendly introduction to machine learning compilers and optimizers](https://huyenchip.com/2021/09/07/a-friendly-introduction-to-machine-learning-compilers-and-optimizers.html) (Sep 7, 2021)
 
 ## Hardware Architecture
 - [NVIDIA H100 Whitepaper](https://resources.nvidia.com/en-us-tensor-core/gtc22-whitepaper-hopper)
