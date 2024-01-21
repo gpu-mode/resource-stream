@@ -1,11 +1,12 @@
 # CUDA MODE Resource Stream
 
-Here you find a collection of CUDA related material (books, papers, blog-post, youtube videos, tweets, implementations etc.). We also collect information to higher level tools for performance optimization and kernel development like [Triton](https://triton-lang.org) and `torch.compile()` ... whatever makes the GPUs go brrrr. 
+Here you find a collection of CUDA related material (books, papers, blog-post, youtube videos, tweets, implementations etc.). We also collect information to higher level tools for performance optimization and kernel development like [Triton](https://triton-lang.org) and `torch.compile()` ... whatever makes the GPUs go brrrr.
 
 You know a great resource we should add? Please see [How to contribute](#how-to-contribute).
 
 ## Lectures / Reading Group Live Sessions
-- [Lecture 1: How to profile CUDA in PyTorch](https://docs.google.com/presentation/d/110dnMW94LX1ySWxu9La17AVUxjgSaQDLOotFC3BZZD4/edit?usp=sharing), recording: [Video](https://www.youtube.com/watch?v=LuhJEEJQgUM&t=751s), code: [msaroufim/cudamodelecture1](https://github.com/msaroufim/cudamodelecture1), speaker: [Mark Saroufim](https://twitter.com/marksaroufim)
+- [Lecture 1: How to profile CUDA in PyTorch](https://docs.google.com/presentation/d/110dnMW94LX1ySWxu9La17AVUxjgSaQDLOotFC3BZZD4/edit?usp=sharing), recording: [Video](https://www.youtube.com/watch?v=LuhJEEJQgUM&t=751s), code: [cuda-mode/profiling-cuda-in-torch](https://github.com/cuda-mode/profiling-cuda-in-torch), speaker: [Mark Saroufim](https://twitter.com/marksaroufim)
+- [Lecture 2: Chapters 1-3 from the PMPP book](https://docs.google.com/presentation/d/1deqvEHdqEC4LHUpStO6z3TT77Dt84fNAvTIAxBJgDck/edit?usp=sharing), code: [cuda-mode/lecture2](https://github.com/cuda-mode/lecture2), speaker: [Andreas Koepf](https://twitter.com/neurosp1ke)
 
 
 
@@ -65,7 +66,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [PyTorch Compiler Troubleshooting](https://github.com/pytorch/pytorch/blob/main/docs/source/torch.compiler_troubleshooting.rst)
 - [PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/)
 - [Pytorch 2 internals](https://drive.google.com/file/d/1XBox0G3FI-71efQQjmqGh0-VkCd-AHPL/view)
-- Understanding GPU memory: [1: Visualizing All Allocations over Time](https://pytorch.org/blog/understanding-gpu-memory-1/), [2: Finding and Removing Reference Cycles](https://pytorch.org/blog/understanding-gpu-memory-2/) 
+- Understanding GPU memory: [1: Visualizing All Allocations over Time](https://pytorch.org/blog/understanding-gpu-memory-1/), [2: Finding and Removing Reference Cycles](https://pytorch.org/blog/understanding-gpu-memory-2/)
 - Debugging memory using snapshots: [Debugging PyTorch memory use with snapshots](https://zdevito.github.io/2022/08/16/memory-snapshots.html)
 - CUDA caching allocaator: [https://zdevito.github.io/2022/08/04/cuda-caching-allocator.html](https://zdevito.github.io/2022/08/04/cuda-caching-allocator.html)
 - Trace Analyzer:  [PyTorch Trace Analysis for the Masses](https://pytorch.org/blog/trace-analysis-for-masses/)
@@ -90,7 +91,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 ## Profiling
 - [Nsight Compute Profiling Guide](https://docs.nvidia.com/nsight-compute/ProfilingGuide/index.html)
 - [mcarilli/nsight.sh](https://gist.github.com/mcarilli/376821aa1a7182dfcf59928a7cde3223) - Favorite nsight systems profiling commands for PyTorch scripts
-- [Profiling GPU Applications with Nsight Systems](https://www.youtube.com/watch?v=kKANP0kL_hk) 
+- [Profiling GPU Applications with Nsight Systems](https://www.youtube.com/watch?v=kKANP0kL_hk)
 
 
 ## Python GPU Computing
