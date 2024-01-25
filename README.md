@@ -37,6 +37,10 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [The CUDA Handbook](https://www.cudahandbook.com/)
 
 
+## Courses
+- [HetSys: Programming Heterogeneous Computing Systems with GPUs and other Accelerators](https://safari.ethz.ch/projects_and_seminars/fall2022/doku.php?id%253Dheterogeneous_systems)
+
+
 ## CUDA Grandmasters
 
 ### Tri Dao
