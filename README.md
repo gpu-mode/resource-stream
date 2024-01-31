@@ -1,5 +1,5 @@
 # CUDA MODE Resource Stream
-[discord.gg/cudamode](discord.gg/cudamode)
+[https://discord.gg/cudamode](https://discord.gg/cudamode)
 
 Here you find a collection of CUDA related material (books, papers, blog-post, youtube videos, tweets, implementations etc.). We also collect information to higher level tools for performance optimization and kernel development like [Triton](https://triton-lang.org) and `torch.compile()` ... whatever makes the GPUs go brrrr.
 
@@ -156,4 +156,4 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 ## How to contribute
 To share interesting CUDA related links please create a pull request for this file. See [editing files](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) in the github documentation.
 
-Or contact us on the **CUDA MODE** discord server: [discord.gg/cudamode](discord.gg/cudamode)
+Or contact us on the **CUDA MODE** discord server: [https://discord.gg/cudamode](https://discord.gg/cudamode)
