@@ -11,6 +11,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - Lecture 3: Getting Started With CUDA for Python Programmers, recording [Video](https://youtu.be/4sgKnKbR-WE?si=qAzVY5sACguFCr6E), code: [lecture3](https://github.com/cuda-mode/lectures/tree/main/lecture3), speaker: [Jeremy Howard](https://twitter.com/jeremyphoward)
 - [Lecture 4: Intro to Compute and Memory Architecture](https://github.com/cuda-mode/lectures/blob/main/lecture4/cuda-mode-2024-02-03.pdf), recording: [Video](https://youtu.be/lTmYrKwjSOU?si=A9WnbehyHR0PZqOi), notebook: [lecture4](https://github.com/cuda-mode/lectures/blob/main/lecture4/cuda-mode-session-4.ipynb), speaker: [Thomas Viehmann](https://lernapparat.de/)
 - Lecture 5: Going Further with CUDA for Python Programmers, recording: [Video](https://youtu.be/wVsR-YhaHlM?si=PINgF9UpOeGhGKHK), notebook: [lecture5](https://github.com/cuda-mode/lectures/blob/main/lecture5/matmul_l5.ipynb), speaker: [Jeremy Howard](https://twitter.com/jeremyphoward)
+- Lecture 6: Optimizing Optimizers, recording: [Video](https://youtu.be/hIop0mWKPHc?si=dOvdFllXSzP_XNvc)
 
 
 ## 1st Contact with CUDA
@@ -38,10 +39,14 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Programming Massively Parallel Processors: A Hands-on Approach](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0323912311)
 - [Cuda by Example: An Introduction to General-Purpose Gpu Programming](https://edoras.sdsu.edu/~mthomas/docs/cuda/cuda_by_example.book.pdf); [code](https://github.com/tpn/cuda-by-example)
 - [The CUDA Handbook](https://www.cudahandbook.com/)
+- [The Book of Shaders](https://thebookofshaders.com/) guide through the abstract and complex universe of Fragment Shader (not cuda but GPU related)
 
 
-## Courses
+## Cuda Courses
 - [HetSys: Programming Heterogeneous Computing Systems with GPUs and other Accelerators](https://safari.ethz.ch/projects_and_seminars/fall2022/doku.php?id%253Dheterogeneous_systems)
+- [Heterogeneous Parallel Programming Class](https://www.youtube.com/playlist?list=PLzn6LN6WhlN06hIOA_ge6SrgdeSiuf9Tb) (YouTube playlist) Prof. Wen-mei Hwu, University of Illinois
+- [Official YouTube channel for "Programming Massively Parallel Processors: A Hands-on Approach"](https://www.youtube.com/@pmpp-book), course playlist: [Applied Parallel Programming](https://www.youtube.com/playlist?list=PLRRuQYjFhpmvu5ODQoY2l7D0ADgWEcYAX)
+
 
 
 ## CUDA Grandmasters
@@ -50,6 +55,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - x: [@tri_dao](https://twitter.com/tri_dao)
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention), [paper](https://arxiv.org/abs/2205.14135)
 - [state-spaces/mamba](https://github.com/state-spaces/mamba), paper: [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752), minimal impl: [mamba-minimal](https://github.com/johnma2006/mamba-minimal)
+- [Mamba: The Hard Way](https://srush.github.io/annotated-mamba/hard.html) by [Sasha Rush](https://rush-nlp.com/), code: [srush/annotated-mamba](https://github.com/srush/annotated-mamba)
 
 
 ### Tim Dettmers
@@ -97,6 +103,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [How CUDA Programming Works | GTC 2022](https://youtu.be/n6M8R8-PlnE?si=cJ4dWtpYaPoIuJ0q)
 - [CUDA Kernel optimization Part 1](https://www.youtube.com/watch?v=hOi3NWOPVR8) [Part 2](https://www.youtube.com/watch?v=NrWhZMHrP4w)
 - [PTX and ISA Programming Guide](https://docs.nvidia.com/cuda/parallel-thread-execution/index.html) (V8.3)
+- Compiler Explorer: Inspect PTX: [div 256 -> shr 8 example](https://godbolt.org/z/odb3191vK)
 
 
 ## Profiling
@@ -131,6 +138,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Cooperative Groups: Flexible CUDA Thread Programming](https://developer.nvidia.com/blog/cooperative-groups/) (Oct 04, 2017)
 - [A friendly introduction to machine learning compilers and optimizers](https://huyenchip.com/2021/09/07/a-friendly-introduction-to-machine-learning-compilers-and-optimizers.html) (Sep 7, 2021)
 
+
 ## Hardware Architecture
 - [NVIDIA H100 Whitepaper](https://resources.nvidia.com/en-us-tensor-core/gtc22-whitepaper-hopper)
 - [NVIDIA GH200 Whitepaper](https://resources.nvidia.com/en-us-grace-cpu/nvidia-grace-hopper)
@@ -154,6 +162,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - Custom implementation of relative position attention ([link](https://github.com/pytorch-labs/segment-anything-fast/blob/main/segment_anything_fast/flash_4.py))
 - Tri Dao's Triton implementation of Flash Attention: [flash_attn_triton.py](https://github.com/Dao-AILab/flash-attention/blob/main/flash_attn/flash_attn_triton.py)
 - YouTube playlist: [Triton Conference 2023](https://www.youtube.com/watch?v=ZGU0Yw7mORE&list=PLc_vA1r0qoiRZfUC3o4_yjj0FtWvodKAz)
+
 
 ## How to contribute
 To share interesting CUDA related links please create a pull request for this file. See [editing files](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) in the github documentation.
