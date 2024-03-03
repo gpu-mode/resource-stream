@@ -69,7 +69,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 ### Sascha Rush
 - x: [@srush_nlp](https://twitter.com/srush_nlp), gh: [srush](https://github.com/srush)
 - [Sasha Rush's GPU Puzzles](https://github.com/srush/GPU-Puzzles), dshah3's [CUDA C++ version](https://github.com/dshah3/GPU-Puzzles) & [walkthrough video](https://www.youtube.com/watch?v=3frRR6fycgM)
-- [Mamba: The Hard Way](https://srush.github.io/annotated-mamba/hard.html) by [Sasha Rush](https://rush-nlp.com/), code: [srush/annotated-mamba](https://github.com/srush/annotated-mamba)
+- [Mamba: The Hard Way](https://srush.github.io/annotated-mamba/hard.html), code: [srush/annotated-mamba](https://github.com/srush/annotated-mamba)
 
 
 ## Practice
@@ -151,6 +151,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [NVIDIA GH200 Whitepaper](https://resources.nvidia.com/en-us-grace-cpu/nvidia-grace-hopper)
 - [AMD CDNA 3 Whitepaper](https://www.amd.com/content/dam/amd/en/documents/instinct-tech-docs/white-papers/amd-cdna-3-white-paper.pdf)
 - [AMD MI300X Data Sheet](https://www.amd.com/content/dam/amd/en/documents/instinct-tech-docs/data-sheets/amd-instinct-mi300x-data-sheet.pdf)
+- Video: [Can SRAM Keep Shrinking?](https://youtu.be/2G4_RZo41Zw) (by [Asianometry](https://www.asianometry.com/))
 
 
 ## CUDA-MODE Community Projects
