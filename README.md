@@ -5,6 +5,7 @@ Here you find a collection of CUDA related material (books, papers, blog-post, y
 
 You know a great resource we should add? Please see [How to contribute](#how-to-contribute).
 
+
 ## Lectures / Reading Group Live Sessions
 - [Lecture 1: How to profile CUDA in PyTorch](https://docs.google.com/presentation/d/110dnMW94LX1ySWxu9La17AVUxjgSaQDLOotFC3BZZD4/edit?usp=sharing), recording: [Video](https://www.youtube.com/watch?v=LuhJEEJQgUM&t=751s), code: [lecture1](https://github.com/cuda-mode/lectures/tree/main/lecture1), speaker: [Mark Saroufim](https://twitter.com/marksaroufim)
 - [Lecture 2: Recap of Chapters 1-3 from the PMPP book](https://docs.google.com/presentation/d/1deqvEHdqEC4LHUpStO6z3TT77Dt84fNAvTIAxBJgDck/edit?usp=sharing), recording: [Video](https://youtu.be/NQ-0D5Ti2dc?si=dhcC_2rLjeXiAbpv) code: [lecture2](https://github.com/cuda-mode/lectures/tree/main/lecture2), speaker: [Andreas Koepf](https://twitter.com/neurosp1ke)
@@ -12,6 +13,8 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Lecture 4: Intro to Compute and Memory Architecture](https://github.com/cuda-mode/lectures/blob/main/lecture4/cuda-mode-2024-02-03.pdf), recording: [Video](https://youtu.be/lTmYrKwjSOU?si=A9WnbehyHR0PZqOi), notebook: [lecture4](https://github.com/cuda-mode/lectures/blob/main/lecture4/cuda-mode-session-4.ipynb), speaker: [Thomas Viehmann](https://lernapparat.de/)
 - Lecture 5: Going Further with CUDA for Python Programmers, recording: [Video](https://youtu.be/wVsR-YhaHlM?si=PINgF9UpOeGhGKHK), notebook: [lecture5](https://github.com/cuda-mode/lectures/blob/main/lecture5/matmul_l5.ipynb), speaker: [Jeremy Howard](https://twitter.com/jeremyphoward)
 - Lecture 6: Optimizing Optimizers, recording: [Video](https://youtu.be/hIop0mWKPHc?si=dOvdFllXSzP_XNvc)
+- [Lecture 7: Advanced Quantization](https://www.dropbox.com/scl/fi/hzfx1l267m8gwyhcjvfk4/Quantization-Cuda-vs-Triton.pdf?rlkey=s4j64ivi2kpp2l0uq8xjdwbab&e=1&dl=0), recording: [Video](https://youtu.be/1u9xUK3G4VM?si=Q6djPGDlL0VGbSps), speaker: [Charles Hernandez](https://github.com/HDCharles)
+- Lecture 8: CUDA Performance Checklist, recording: TBD, code: [lecture8](https://github.com/cuda-mode/lectures/tree/main/lecture8), speaker: [Mark Saroufim](https://twitter.com/marksaroufim)
 
 
 ## 1st Contact with CUDA
@@ -52,20 +55,24 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 ## CUDA Grandmasters
 
 ### Tri Dao
-- x: [@tri_dao](https://twitter.com/tri_dao)
+- x: [@tri_dao](https://twitter.com/tri_dao), gh: [tridao](https://github.com/tridao)
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention), [paper](https://arxiv.org/abs/2205.14135)
 - [state-spaces/mamba](https://github.com/state-spaces/mamba), paper: [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752), minimal impl: [mamba-minimal](https://github.com/johnma2006/mamba-minimal)
-- [Mamba: The Hard Way](https://srush.github.io/annotated-mamba/hard.html) by [Sasha Rush](https://rush-nlp.com/), code: [srush/annotated-mamba](https://github.com/srush/annotated-mamba)
 
 
 ### Tim Dettmers
-- x: [@Tim_Dettmers](https://twitter.com/Tim_Dettmers)
+- x: [@Tim_Dettmers](https://twitter.com/Tim_Dettmers), gh: [TimDettmers](https://github.com/TimDettmers)
 - [TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes), docs: [docs](https://bitsandbytes.readthedocs.io/en/latest/)
 - [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
 
 
-## Practice
+### Sascha Rush
+- x: [@srush_nlp](https://twitter.com/srush_nlp), gh: [srush](https://github.com/srush)
 - [Sasha Rush's GPU Puzzles](https://github.com/srush/GPU-Puzzles), dshah3's [CUDA C++ version](https://github.com/dshah3/GPU-Puzzles) & [walkthrough video](https://www.youtube.com/watch?v=3frRR6fycgM)
+- [Mamba: The Hard Way](https://srush.github.io/annotated-mamba/hard.html) by [Sasha Rush](https://rush-nlp.com/), code: [srush/annotated-mamba](https://github.com/srush/annotated-mamba)
+
+
+## Practice
 - [Adnan Aziz and Anupam Bhatnagar GPU Puzzlers](http://www.gpupuzzlers.com/)
 
 
@@ -146,7 +153,12 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [AMD MI300X Data Sheet](https://www.amd.com/content/dam/amd/en/documents/instinct-tech-docs/data-sheets/amd-instinct-mi300x-data-sheet.pdf)
 
 
-## pscan project
+## CUDA-MODE Community Projects
+
+## ring-attention
+- see our [ring-attention](https://github.com/cuda-mode/ring-attention) repo
+
+## pscan
 - GPU Gems: [Parallel Prefix Sum (Scan) with CUDA](https://developer.nvidia.com/gpugems/gpugems3/part-vi-gpu-computing/chapter-39-parallel-prefix-sum-scan-cuda), [PDF version (2007)](https://developer.download.nvidia.com/compute/cuda/1.1-Beta/x86_website/projects/scan/doc/scan.pdf), impl: [stack overflow](https://stackoverflow.com/a/30835030/387870), nicer impl: [mattdean1/cuda](https://github.com/mattdean1/cuda)
 - [Accelerating Reduction and Scan Using Tensor Core Units](https://arxiv.org/abs/1811.09736)
 - Thrust: [Prefix Sums](https://docs.nvidia.com/cuda/thrust/index.html#prefix-sums), Reference: [scan variants](https://thrust.github.io/doc/group__prefixsums.html)
@@ -167,4 +179,4 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 ## How to contribute
 To share interesting CUDA related links please create a pull request for this file. See [editing files](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) in the github documentation.
 
-Or contact us on the **CUDA MODE** discord server: [https://discord.gg/cudamode](https://discord.gg/cudamode)
+Or contact us on the **CUDA MODE** discord server: [https://discord.gg/cuda-mode-1189498204333543425](https://discord.gg/cuda-mode-1189498204333543425)
