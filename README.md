@@ -43,7 +43,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Cuda by Example: An Introduction to General-Purpose Gpu Programming](https://edoras.sdsu.edu/~mthomas/docs/cuda/cuda_by_example.book.pdf); [code](https://github.com/tpn/cuda-by-example)
 - [The CUDA Handbook](https://www.cudahandbook.com/)
 - [The Book of Shaders](https://thebookofshaders.com/) guide through the abstract and complex universe of Fragment Shader (not cuda but GPU related)
-
+- [Art of HPC](https://theartofhpc.com/) 4 books on HPC more generally, does not specifically cover GPUs but lessons broadly apply
 
 ## Cuda Courses
 - [HetSys: Programming Heterogeneous Computing Systems with GPUs and other Accelerators](https://safari.ethz.ch/projects_and_seminars/fall2022/doku.php?id%253Dheterogeneous_systems)
