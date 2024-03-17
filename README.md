@@ -15,7 +15,8 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - Lecture 6: Optimizing Optimizers, recording: [Video](https://youtu.be/hIop0mWKPHc?si=dOvdFllXSzP_XNvc)
 - [Lecture 7: Advanced Quantization](https://www.dropbox.com/scl/fi/hzfx1l267m8gwyhcjvfk4/Quantization-Cuda-vs-Triton.pdf?rlkey=s4j64ivi2kpp2l0uq8xjdwbab&e=1&dl=0), recording: [Video](https://youtu.be/1u9xUK3G4VM?si=Q6djPGDlL0VGbSps), speaker: [Charles Hernandez](https://github.com/HDCharles)
 - Lecture 8: CUDA Performance Checklist, recording: [Video](https://youtu.be/SGhfUhlowB4?si=0Eq1-w2HzkeZKZ4y), code: [lecture8](https://github.com/cuda-mode/lectures/tree/main/lecture8), speaker: [Mark Saroufim](https://twitter.com/marksaroufim)
-- Lecture 9: Reductions [Video](https://www.youtube.com/watch?v=09wntC6BT5o), code: [kecture9](https://github.com/cuda-mode/lectures/tree/main/lecture9), speaker: [Mark Saroufim](https://twitter.com/marksaroufim)
+- Lecture 9: Reductions [Video](https://www.youtube.com/watch?v=09wntC6BT5o), [slides](https://docs.google.com/presentation/d/1s8lRU8xuDn-R05p1aSP6P7T5kk9VYnDOCyN5bWKeg3U/edit) code: [lecture9](https://github.com/cuda-mode/lectures/tree/main/lecture9), speaker: [Mark Saroufim](https://twitter.com/marksaroufim)
+- Lecture 10: Build a Prod Ready CUDA Library [Video](https://www.youtube.com/watch?v=FHsEW0HpuoU), speaker: [Oscar Amoros Huguet](https://github.com/morousg), [slides](https://drive.google.com/drive/folders/158V8BzGj-IkdXXDAdHPNwUzDLNmr971_?usp=drive_link)
 
 
 ## 1st Contact with CUDA
