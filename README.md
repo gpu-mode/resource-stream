@@ -51,7 +51,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [HetSys: Programming Heterogeneous Computing Systems with GPUs and other Accelerators](https://safari.ethz.ch/projects_and_seminars/fall2022/doku.php?id%253Dheterogeneous_systems)
 - [Heterogeneous Parallel Programming Class](https://www.youtube.com/playlist?list=PLzn6LN6WhlN06hIOA_ge6SrgdeSiuf9Tb) (YouTube playlist) Prof. Wen-mei Hwu, University of Illinois
 - [Official YouTube channel for "Programming Massively Parallel Processors: A Hands-on Approach"](https://www.youtube.com/@pmpp-book), course playlist: [Applied Parallel Programming](https://www.youtube.com/playlist?list=PLRRuQYjFhpmvu5ODQoY2l7D0ADgWEcYAX)
-
+- [Programming Parallel Computers](https://ppc-exercises.cs.aalto.fi/courses); covers both CUDA and CPU-parallelism. Use [Open Course Version](https://ppc-exercises.cs.aalto.fi/course/open2024a) and you can even submit your own solutions to the exercises for testing and benchmarking. 
 
 
 ## CUDA Grandmasters
