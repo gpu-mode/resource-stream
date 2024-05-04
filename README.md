@@ -7,16 +7,10 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 
 
 ## Lectures / Reading Group Live Sessions
-- [Lecture 1: How to profile CUDA in PyTorch](https://docs.google.com/presentation/d/110dnMW94LX1ySWxu9La17AVUxjgSaQDLOotFC3BZZD4/edit?usp=sharing), recording: [Video](https://www.youtube.com/watch?v=LuhJEEJQgUM&t=751s), code: [lecture1](https://github.com/cuda-mode/lectures/tree/main/lecture1), speaker: [Mark Saroufim](https://twitter.com/marksaroufim)
-- [Lecture 2: Recap of Chapters 1-3 from the PMPP book](https://docs.google.com/presentation/d/1deqvEHdqEC4LHUpStO6z3TT77Dt84fNAvTIAxBJgDck/edit?usp=sharing), recording: [Video](https://youtu.be/NQ-0D5Ti2dc?si=dhcC_2rLjeXiAbpv) code: [lecture2](https://github.com/cuda-mode/lectures/tree/main/lecture2), speaker: [Andreas Koepf](https://twitter.com/neurosp1ke)
-- Lecture 3: Getting Started With CUDA for Python Programmers, recording [Video](https://youtu.be/4sgKnKbR-WE?si=qAzVY5sACguFCr6E), code: [lecture3](https://github.com/cuda-mode/lectures/tree/main/lecture3), speaker: [Jeremy Howard](https://twitter.com/jeremyphoward)
-- [Lecture 4: Intro to Compute and Memory Architecture](https://github.com/cuda-mode/lectures/blob/main/lecture4/cuda-mode-2024-02-03.pdf), recording: [Video](https://youtu.be/lTmYrKwjSOU?si=A9WnbehyHR0PZqOi), notebook: [lecture4](https://github.com/cuda-mode/lectures/blob/main/lecture4/cuda-mode-session-4.ipynb), speaker: [Thomas Viehmann](https://lernapparat.de/)
-- Lecture 5: Going Further with CUDA for Python Programmers, recording: [Video](https://youtu.be/wVsR-YhaHlM?si=PINgF9UpOeGhGKHK), notebook: [lecture5](https://github.com/cuda-mode/lectures/blob/main/lecture5/matmul_l5.ipynb), speaker: [Jeremy Howard](https://twitter.com/jeremyphoward)
-- Lecture 6: Optimizing Optimizers, recording: [Video](https://youtu.be/hIop0mWKPHc?si=dOvdFllXSzP_XNvc)
-- [Lecture 7: Advanced Quantization](https://www.dropbox.com/scl/fi/hzfx1l267m8gwyhcjvfk4/Quantization-Cuda-vs-Triton.pdf?rlkey=s4j64ivi2kpp2l0uq8xjdwbab&e=1&dl=0), recording: [Video](https://youtu.be/1u9xUK3G4VM?si=Q6djPGDlL0VGbSps), speaker: [Charles Hernandez](https://github.com/HDCharles)
-- Lecture 8: CUDA Performance Checklist, recording: [Video](https://youtu.be/SGhfUhlowB4?si=0Eq1-w2HzkeZKZ4y), code: [lecture8](https://github.com/cuda-mode/lectures/tree/main/lecture8), speaker: [Mark Saroufim](https://twitter.com/marksaroufim)
-- Lecture 9: Reductions [Video](https://www.youtube.com/watch?v=09wntC6BT5o), [slides](https://docs.google.com/presentation/d/1s8lRU8xuDn-R05p1aSP6P7T5kk9VYnDOCyN5bWKeg3U/edit) code: [lecture9](https://github.com/cuda-mode/lectures/tree/main/lecture9), speaker: [Mark Saroufim](https://twitter.com/marksaroufim)
-- Lecture 10: Build a Prod Ready CUDA Library [Video](https://www.youtube.com/watch?v=FHsEW0HpuoU), speaker: [Oscar Amoros Huguet](https://github.com/morousg), [slides](https://drive.google.com/drive/folders/158V8BzGj-IkdXXDAdHPNwUzDLNmr971_?usp=drive_link)
+
+You find a list of upcoming lectures in the Events option in the channel list (side bar) of our [discord server](https://discord.gg/cudamode).
+
+Recordings of the weekly lectures are published on our [YouTube channel](https://www.youtube.com/@CUDAMODE). Material (code, slides) for the individual lectures can be found in the [lectures](https://github.com/cuda-mode/lectures) repository.
 
 
 ## 1st Contact with CUDA
