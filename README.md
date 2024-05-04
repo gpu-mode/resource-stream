@@ -94,6 +94,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - Debugging memory using snapshots: [Debugging PyTorch memory use with snapshots](https://zdevito.github.io/2022/08/16/memory-snapshots.html)
 - CUDA caching allocaator: [https://zdevito.github.io/2022/08/04/cuda-caching-allocator.html](https://zdevito.github.io/2022/08/04/cuda-caching-allocator.html)
 - Trace Analyzer:  [PyTorch Trace Analysis for the Masses](https://pytorch.org/blog/trace-analysis-for-masses/)
+- [Holistic Trace Analysis (HTA)](https://hta.readthedocs.io/en/latest/), gh: [facebookresearch/HolisticTraceAnalysis](https://github.com/facebookresearch/HolisticTraceAnalysis)
 
 
 ## Code / Libs
