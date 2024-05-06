@@ -172,6 +172,7 @@ Recordings of the weekly lectures are published on our [YouTube channel](https:/
 - Custom implementation of relative position attention ([link](https://github.com/pytorch-labs/segment-anything-fast/blob/main/segment_anything_fast/flash_4.py))
 - Tri Dao's Triton implementation of Flash Attention: [flash_attn_triton.py](https://github.com/Dao-AILab/flash-attention/blob/main/flash_attn/flash_attn_triton.py)
 - YouTube playlist: [Triton Conference 2023](https://www.youtube.com/watch?v=ZGU0Yw7mORE&list=PLc_vA1r0qoiRZfUC3o4_yjj0FtWvodKAz)
+- [LightLLM](https://github.com/ModelTC/lightllm) with different triton kernels for different LLMs
 
 
 ## How to contribute
