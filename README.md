@@ -38,10 +38,12 @@ alumni Tri Dao, Dan Fu, and many others. A goldmine.
 - [Data-Centric AI](https://github.com/HazyResearch/data-centric-ai):
   An older such collection
 - [Blog](https://hazyresearch.stanford.edu/blog)
-- [ThunderKittens](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
+- [ThunderKittens](https://hazyresearch.stanford.edu/blog/2024-05-12-tk):
+  (May 2024) A DSL within CUDA, this blog post has good background on
+  getting good H100 performance
 - [Systems for Foundation Models, and Foundation Models for
   Systems](https://neurips.cc/virtual/2023/invited-talk/73990): Chris
-  Re's keynote from NeurIPS 2023
+  Re's keynote from NeurIPS Dec 2023
 
 ## Papers, Case Studies
 - [A Case Study in CUDA Kernel Fusion: Implementing FlashAttention-2 on NVIDIA Hopper Architecture using the CUTLASS Library](https://arxiv.org/abs/2312.11918)
