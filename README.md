@@ -29,13 +29,14 @@ Recordings of the weekly lectures are published on our [YouTube channel](https:/
 
 ## Hazy Research
 
-This research group at Stanford led by Chris Re has alumni Tri Dao,
-Dan Fu, and many others. A goldmine.
+The MLSys-oriented research group at Stanford led by Chris Re, with
+alumni Tri Dao, Dan Fu, and many others. A goldmine.
 
 - [Building Blocks for AI
   Systems](https://github.com/HazyResearch/aisys-building-blocks):
   Their collection of resources similar to this one, many great links
-- [Data-Centric AI](https://github.com/HazyResearch/data-centric-ai): Another such collection
+- [Data-Centric AI](https://github.com/HazyResearch/data-centric-ai):
+  An older such collection
 - [Blog](https://hazyresearch.stanford.edu/blog)
 - [ThunderKittens](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 - [Systems for Foundation Models, and Foundation Models for
