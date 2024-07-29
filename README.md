@@ -62,7 +62,7 @@ Recordings of the weekly lectures are published on our [YouTube channel](https:/
 - [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
 
 
-### Sascha Rush
+### Sasha Rush
 - x: [@srush_nlp](https://twitter.com/srush_nlp), gh: [srush](https://github.com/srush)
 - [Sasha Rush's GPU Puzzles](https://github.com/srush/GPU-Puzzles), dshah3's [CUDA C++ version](https://github.com/dshah3/GPU-Puzzles) & [walkthrough video](https://www.youtube.com/watch?v=3frRR6fycgM)
 - [Mamba: The Hard Way](https://srush.github.io/annotated-mamba/hard.html), code: [srush/annotated-mamba](https://github.com/srush/annotated-mamba)
