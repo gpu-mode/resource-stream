@@ -99,7 +99,7 @@ alumni Tri Dao, Dan Fu, and many others. A goldmine.
 
 
 ## PyTorch Internals & Debugging
-- [TorchDynamo Deep Dive](https://pytorch.org/docs/stable/torch.compiler_deepdive.html)
+- [TorchDynamo Deep Dive](https://pytorch.org/docs/stable/torch.compiler_dynamo_overview.html)
 - [PyTorch Compiler Troubleshooting](https://github.com/pytorch/pytorch/blob/main/docs/source/torch.compiler_troubleshooting.rst)
 - [PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/)
 - [Pytorch 2 internals](https://drive.google.com/file/d/1XBox0G3FI-71efQQjmqGh0-VkCd-AHPL/view)
