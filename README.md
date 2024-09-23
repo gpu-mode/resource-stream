@@ -1,7 +1,7 @@
-# CUDA MODE Resource Stream
-[![](https://dcbadge.vercel.app/api/server/cudamode?style=flat)](https://discord.gg/cudamode)
+# GPU MODE Resource Stream
+[![](https://dcbadge.limes.pink/api/server/gpumode?style=flat)](https://discord.gg/gpumode)
 
-[https://discord.gg/cudamode](https://discord.gg/cudamode)
+[https://discord.gg/gpumode](https://discord.gg/gpumode)
 
 Here you find a collection of CUDA related material (books, papers, blog-post, youtube videos, tweets, implementations etc.). We also collect information to higher level tools for performance optimization and kernel development like [Triton](https://triton-lang.org) and `torch.compile()` ... whatever makes the GPUs go brrrr.
 
@@ -10,9 +10,9 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 
 ## Lectures / Reading Group Live Sessions
 
-You find a list of upcoming lectures in the Events option in the channel list (side bar) of our [discord server](https://discord.gg/cudamode).
+You find a list of upcoming lectures in the Events option in the channel list (side bar) of our [discord server](https://discord.gg/gpumode).
 
-Recordings of the weekly lectures are published on our [YouTube channel](https://www.youtube.com/@CUDAMODE). Material (code, slides) for the individual lectures can be found in the [lectures](https://github.com/cuda-mode/lectures) repository.
+Recordings of the weekly lectures are published on our [YouTube channel](https://www.youtube.com/@GPUMODE). Material (code, slides) for the individual lectures can be found in the [lectures](https://github.com/gpu-mode/lectures) repository.
 
 
 ## 1st Contact with CUDA
@@ -170,10 +170,10 @@ alumni Tri Dao, Dan Fu, and many others. A goldmine.
 - Video: [Can SRAM Keep Shrinking?](https://youtu.be/2G4_RZo41Zw) (by [Asianometry](https://www.asianometry.com/))
 
 
-## CUDA-MODE Community Projects
+## GPU-MODE Community Projects
 
 ## ring-attention
-- see our [ring-attention](https://github.com/cuda-mode/ring-attention) repo
+- see our [ring-attention](https://github.com/gpu-mode/ring-attention) repo
 
 ## pscan
 - GPU Gems: [Parallel Prefix Sum (Scan) with CUDA](https://developer.nvidia.com/gpugems/gpugems3/part-vi-gpu-computing/chapter-39-parallel-prefix-sum-scan-cuda), [PDF version (2007)](https://developer.download.nvidia.com/compute/cuda/1.1-Beta/x86_website/projects/scan/doc/scan.pdf), impl: [stack overflow](https://stackoverflow.com/a/30835030/387870), nicer impl: [mattdean1/cuda](https://github.com/mattdean1/cuda)
@@ -197,4 +197,4 @@ alumni Tri Dao, Dan Fu, and many others. A goldmine.
 ## How to contribute
 To share interesting CUDA related links please create a pull request for this file. See [editing files](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) in the github documentation.
 
-Or contact us on the **CUDA MODE** discord server: [https://discord.gg/cudamode](https://discord.gg/cudamode)
+Or contact us on the **GPU MODE** discord server: [https://discord.gg/gpumode](https://discord.gg/gpumode)
