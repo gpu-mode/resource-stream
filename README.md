@@ -24,6 +24,7 @@ Recordings of the weekly lectures are published on our [YouTube channel](https:/
 - [OLCF NVIDIA CUDA Training Series](https://www.olcf.ornl.gov/cuda-training-series/), talk recordings can be found under the presentation footer for each lecture; [exercises](https://github.com/olcf/cuda-training-series)
 - [GTC 2022 - CUDA: New Features and Beyond - Stephen Jones](https://www.youtube.com/watch?v=SAm4gwkj2Ko)
 - Intro video: [Writing Code That Runs FAST on a GPU](https://youtu.be/8sDg-lD1fZQ)
+- 12Hrs CUDA tutorial :[introduction of CUDA and writing kernel in CUDA](https://www.youtube.com/watch?v=86FAWCzIe_4)
 
 
 ## 2nd Contact
@@ -192,6 +193,8 @@ alumni Tri Dao, Dan Fu, and many others. A goldmine.
 - Tri Dao's Triton implementation of Flash Attention: [flash_attn_triton.py](https://github.com/Dao-AILab/flash-attention/blob/main/flash_attn/flash_attn_triton.py)
 - YouTube playlist: [Triton Conference 2023](https://www.youtube.com/watch?v=ZGU0Yw7mORE&list=PLc_vA1r0qoiRZfUC3o4_yjj0FtWvodKAz)
 - [LightLLM](https://github.com/ModelTC/lightllm) with different triton kernels for different LLMs
+
+
 
 
 ## How to contribute
