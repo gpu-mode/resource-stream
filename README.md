@@ -24,6 +24,7 @@ Recordings of the weekly lectures are published on our [YouTube channel](https:/
 - [OLCF NVIDIA CUDA Training Series](https://www.olcf.ornl.gov/cuda-training-series/), talk recordings can be found under the presentation footer for each lecture; [exercises](https://github.com/olcf/cuda-training-series)
 - [GTC 2022 - CUDA: New Features and Beyond - Stephen Jones](https://www.youtube.com/watch?v=SAm4gwkj2Ko)
 - Intro video: [Writing Code That Runs FAST on a GPU](https://youtu.be/8sDg-lD1fZQ)
+- 12 hrs CUDA tutorial: [Introduction of CUDA and writing kernels in CUDA](https://www.youtube.com/watch?v=86FAWCzIe_4)
 
 
 ## 2nd Contact
