@@ -16,6 +16,7 @@ Recordings of the weekly lectures are published on our [YouTube channel](https:/
 
 
 ## 1st Contact with CUDA
+- [Accelerated Computing Hub](https://github.com/NVIDIA/accelerated-computing-hub/) NVIDIA curated collection of open source educational resources for general purpose GPU programming.
 - [An Easy Introduction to CUDA C and C++](https://developer.nvidia.com/blog/easy-introduction-cuda-c-and-c/)
 - [An Even Easier Introduction to CUDA](https://developer.nvidia.com/blog/even-easier-introduction-cuda/)
 - [CUDA Toolkit Documentation ](https://docs.nvidia.com/cuda/)
