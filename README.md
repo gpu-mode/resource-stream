@@ -19,6 +19,7 @@ Recordings of the weekly lectures are published on our [YouTube channel](https:/
 - [An Easy Introduction to CUDA C and C++](https://developer.nvidia.com/blog/easy-introduction-cuda-c-and-c/)
 - [An Even Easier Introduction to CUDA](https://developer.nvidia.com/blog/even-easier-introduction-cuda/)
 - [CUDA Toolkit Documentation ](https://docs.nvidia.com/cuda/)
+- [Accelerated Computing Hub](https://github.com/NVIDIA/accelerated-computing-hub/) NVIDIA curated collection of open source educational resources for general purpose GPU programming.
 - Basic terminology: Thread block, Warp, Streaming Multiprocessor: [Wiki: Thread Block](https://en.wikipedia.org/wiki/Thread_block_(CUDA_programming)), [A tour of CUDA](https://tbetcke.github.io/hpc_lecture_notes/cuda_introduction.html)
 - [GPU Performance Background User's Guide](https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html)
 - [OLCF NVIDIA CUDA Training Series](https://www.olcf.ornl.gov/cuda-training-series/), talk recordings can be found under the presentation footer for each lecture; [exercises](https://github.com/olcf/cuda-training-series)
