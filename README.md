@@ -148,6 +148,7 @@ alumni Tri Dao, Dan Fu, and many others. A goldmine.
 - [Codon @gpu.kernel](https://docs.exaloop.io/codon/advanced/gpu), github: [exaloop/codon](https://github.com/exaloop/codon)
 - [Mojo](https://docs.modular.com/mojo/manual/) (part of commercial [MAX Plattform](https://www.modular.com/max) by [Modular](https://www.modular.com))
 - NVIDIA Python Bindings: [CUDA Python](https://github.com/NVIDIA/cuda-python) (calling NVRTC to compile kernels, malloc, copy, launching kernels, ..), [cuDNN FrontEnd(FE) API](https://github.com/NVIDIA/cudnn-frontend), [CUTLASS Python Interface](https://github.com/NVIDIA/cutlass/tree/main/python)
+- [NVIDIA tilus](https://github.com/NVIDIA/tilus) 
 
 
 ## Advanced Topics, Research, Compilers
