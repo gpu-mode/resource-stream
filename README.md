@@ -191,6 +191,7 @@ alumni Tri Dao, Dan Fu, and many others. A goldmine.
 ## Triton Kernels / Examples
 
 - [`unsloth`](https://github.com/unslothai/unsloth) that implements custom kernels in Triton for faster QLoRA training
+- [FlagGems](https://github.com/flagos-ai/FlagGems/) - High-performance Triton operator library (230+ kernels) focused on LLM training and inference
 - Custom implementation of relative position attention ([link](https://github.com/pytorch-labs/segment-anything-fast/blob/main/segment_anything_fast/flash_4.py))
 - Tri Dao's Triton implementation of Flash Attention: [flash_attn_triton.py](https://github.com/Dao-AILab/flash-attention/blob/main/flash_attn/flash_attn_triton.py)
 - YouTube playlist: [Triton Conference 2023](https://www.youtube.com/watch?v=ZGU0Yw7mORE&list=PLc_vA1r0qoiRZfUC3o4_yjj0FtWvodKAz)
