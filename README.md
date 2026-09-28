@@ -91,6 +91,7 @@ alumni Tri Dao, Dan Fu, and many others. A goldmine.
 
 ## Practice
 - [Adnan Aziz and Anupam Bhatnagar GPU Puzzlers](http://www.gpupuzzlers.com/)
+- [PantheonSim playground](https://pantheonsim.com/play/) write and run CUDA or HIP code in the browser on simulated GPUs, no GPU or sign-up needed ([source](https://github.com/pantheongpu/pantheonsim))
 
 
 ## PyTorch Performance Optimization
