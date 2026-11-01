@@ -196,6 +196,7 @@ alumni Tri Dao, Dan Fu, and many others. A goldmine.
 - Tri Dao's Triton implementation of Flash Attention: [flash_attn_triton.py](https://github.com/Dao-AILab/flash-attention/blob/main/flash_attn/flash_attn_triton.py)
 - YouTube playlist: [Triton Conference 2023](https://www.youtube.com/watch?v=ZGU0Yw7mORE&list=PLc_vA1r0qoiRZfUC3o4_yjj0FtWvodKAz)
 - [LightLLM](https://github.com/ModelTC/lightllm) with different triton kernels for different LLMs
+- [CookLLM: Flash Attention in Triton](https://cookllm.com/en/docs/fundamentals/systems/flash-attention) - course chapters that build Flash Attention in Triton step by step: a naive kernel to a tuned one, block pointers, causal masking, grouped-query attention and the backward pass (free previews; full lessons are paid)
 
 
 ## How to contribute
