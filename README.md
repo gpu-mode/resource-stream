@@ -110,6 +110,7 @@ alumni Tri Dao, Dan Fu, and many others. A goldmine.
 - CUDA caching allocaator: [https://zdevito.github.io/2022/08/04/cuda-caching-allocator.html](https://zdevito.github.io/2022/08/04/cuda-caching-allocator.html)
 - Trace Analyzer:  [PyTorch Trace Analysis for the Masses](https://pytorch.org/blog/trace-analysis-for-masses/)
 - [Holistic Trace Analysis (HTA)](https://hta.readthedocs.io/en/latest/), gh: [facebookresearch/HolisticTraceAnalysis](https://github.com/facebookresearch/HolisticTraceAnalysis)
+- [Identifying the First Failed Rank in Distributed PyTorch & NCCL Logs](https://denpex.com/guides/identify-first-failed-rank)
 
 
 ## Code / Libs
