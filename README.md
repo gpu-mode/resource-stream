@@ -146,7 +146,7 @@ alumni Tri Dao, Dan Fu, and many others. A goldmine.
 - [CuPy](https://cupy.dev/) NumPy compatible GPU Computing
 - [NVidia Fuser](https://github.com/NVIDIA/Fuser/)
 - [Codon @gpu.kernel](https://docs.exaloop.io/codon/advanced/gpu), github: [exaloop/codon](https://github.com/exaloop/codon)
-- [Mojo](https://docs.modular.com/mojo/manual/) (part of commercial [MAX Plattform](https://www.modular.com/max) by [Modular](https://www.modular.com))
+- [Mojo🔥](https://mojolang.org) / [MAX](https://max.modular.com) Modular, a Qualcomm company's open-source systems programming language and source-available AI framework
 - NVIDIA Python Bindings: [CUDA Python](https://github.com/NVIDIA/cuda-python) (calling NVRTC to compile kernels, malloc, copy, launching kernels, ..), [cuDNN FrontEnd(FE) API](https://github.com/NVIDIA/cudnn-frontend), [CUTLASS Python Interface](https://github.com/NVIDIA/cutlass/tree/main/python)
 - [NVIDIA tilus](https://github.com/NVIDIA/tilus) 
 
