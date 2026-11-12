@@ -154,6 +154,7 @@ alumni Tri Dao, Dan Fu, and many others. A goldmine.
 ## Advanced Topics, Research, Compilers
 - [TACO](http://tensor-compiler.org/): The Tensor Algebra Compiler, gh: [tensor-compiler/taco](https://github.com/tensor-compiler/taco)
 - [Mosaic compiler](https://github.com/manya-bansal/mosaic) C++ DSL for sparse and dense tensors algebra (built on top of TACO), [paper](https://dl.acm.org/doi/10.1145/3591236), [presentation](https://aha.stanford.edu/mosaic-interoperable-compiler-tensor-algebra)
+- [Faber](https://faberlang.dev/en-US/targets/gpu.html): statically typed language designed for coding agents to write; `kernel` declarations run on CPU threads, Metal or CUDA from one source, checked against a sequential reference, gh: [faberlang/faber](https://github.com/faberlang/faber)
 
 
 ## News
